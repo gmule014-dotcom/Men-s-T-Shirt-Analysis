@@ -1,10 +1,7 @@
 # 👕 T-shirt Project - Power BI Dashboard  
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)  
-![License](https://img.shields.io/github/license/gmule014-dotcom/Men-s-T-shirt-Analysis)  
 ![Repo Size](https://img.shields.io/github/repo-size/gmule014-dotcom/Men-s-T-shirt-Analysis)  
-![Stars](https://img.shields.io/github/stars/gmule014-dotcom/Men-s-T-shirt-Analysis?style=social)  
-![Forks](https://img.shields.io/github/forks/gmule014-dotcom/Men-s-T-shirt-Analysis?style=social)  
 
 A **Power BI dashboard** designed to analyze sales data for a T-shirt business, providing key insights into **brand performance, revenue, and customer behavior**.  
 
@@ -49,10 +46,10 @@ The dashboard provides **actionable insights** to:
 ## 📸 Screenshots
 
 ### 🔹 Brands Page  
-![Screenshot of the Brands page](uploaded:Screenshot 2025-08-27 002949.jpg-b5f035f6-e3f6-4d3c-837f-d462598deeb3)
+![The Brands page](uploaded:Screenshot 2025-08-27 002949.jpg-b5f035f6-e3f6-4d3c-837f-d462598deeb3)
 
 ### 🔹 Details Page  
-![Screenshot of the Details page](uploaded:Screenshot 2025-08-27 003028.jpg-99848ac1-4934-46cb-a2fd-7660f3ad8d6d)
+![The Details page](uploaded:Screenshot 2025-08-27 003028.jpg-99848ac1-4934-46cb-a2fd-7660f3ad8d6d)
 
 ---
 
