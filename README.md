@@ -46,10 +46,10 @@ The dashboard provides **actionable insights** to:
 ## 📸 Screenshots
 
 ### 🔹 Brands Page  
-![The Brands page](uploaded:Screenshot 2025-08-27 002949.jpg-b5f035f6-e3f6-4d3c-837f-d462598deeb3)
+![The Brands page](Brands.png)
 
 ### 🔹 Details Page  
-![The Details page](uploaded:Screenshot 2025-08-27 003028.jpg-99848ac1-4934-46cb-a2fd-7660f3ad8d6d)
+![The Details page](Details.png)
 
 ---
 
@@ -78,4 +78,4 @@ Ensure you have the following installed:
 ### ⚙️ Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/T-shirt-project.git
+   git clone https://github.com/gmule014-dotcom/Men-s-T-shirt-Analysis.git
